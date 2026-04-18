@@ -27,17 +27,18 @@ SQL         ████████████░░░░░░░░  interm
 
 ---
 
-## 📡 currently
+## 📡 Currently
 
 - 📚 Deep in my software engineering curriculum
 - 🧪 Experimenting with personal projects
-- 🌱 Growing every day — one commit at a time
 
 ---
 
-## 📬 reach me
+## 📬 Contact
 
 - ✉️ [metetvrk@icloud.com](mailto:metetvrk@icloud.com)
+- 
+- ✉️ https://discord.gg/cFuhyJsJUh
 
 ---
 
