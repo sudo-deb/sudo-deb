@@ -32,7 +32,7 @@
 - [DELETED ENTRY] unknown
 - [DELETED ENTRY] unknown
 + location  : Spain 🇪🇸
-+ status    : studying Software Engineering
++ status    : Software Engineering
 + activity  : writing code, breaking things, learning from both
 - [DELETED ENTRY] unknown
 ```
@@ -72,7 +72,7 @@ SQL         ████████░░░░░░░░░░░░  ~ frag
 *`// 1 record found`*
 
 ```
-✉  [metetvrk@icloud.com](https://discord.gg/cFuhyJsJUh)   [DECRYPTED]
+✉  [DISCORD](https://discord.gg/cFuhyJsJUh)   [DECRYPTED]
 ```
 
 ---
