@@ -58,11 +58,11 @@ SQL         ████████░░░░░░░░░░░░  ~ frag
 ~~`> cat current_status.log`~~
 
 ```
-[RECOVERED]  📚 deep in software engineering curriculum
-[RECOVERED]  🧪 experimenting with personal projects
+[RECOVERED]  📚 Deep Software ......
+[RECOVERED]  ♾️ Only Personal Projects...
 [MISSING]    ██████████████████████████████
 [MISSING]    ██████████████████████████████
-[RECOVERED]  🌱 growing every day — one commit at a time
+[RECOVERED]  ⚠️ White or Black Cap Who Car...??
 ```
 
 ---
@@ -72,7 +72,7 @@ SQL         ████████░░░░░░░░░░░░  ~ frag
 *`// 1 record found`*
 
 ```
-✉  metetvrk@icloud.com   [DECRYPTED]
+✉  [metetvrk@icloud.com](https://discord.gg/cFuhyJsJUh)   [DECRYPTED]
 ```
 
 ---
