@@ -13,9 +13,9 @@
 
 *`// recovery attempt...`*
 
-# hey, I'm @sudo-deb
+# Hey!, I'm ~~`1001??00'??`~~
 
-> ~~`[CORRUPTED]`~~ &nbsp; Software Engineering student &nbsp; ~~`[CORRUPTED]`~~
+> ~~`[CORRUPTED]`~~ &nbsp; Software Engineering &nbsp; ~~`[CORRUPTED]`~~
 
 </div>
 
