@@ -1,49 +1,86 @@
-# hey, I'm @sudo-deb 👾
+<!--
+  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
+  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
+  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+  ╚═╝     ╚═╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+-->
 
-> Software Engineering student based in Spain 🇪🇸 — writing code, breaking things, and learning from both.
+<div align="center">
+
+~~`[FILE DELETED]`~~
+
+*`// recovery attempt...`*
+
+# hey, I'm @sudo-deb
+
+> ~~`[CORRUPTED]`~~ &nbsp; Software Engineering student &nbsp; ~~`[CORRUPTED]`~~
+
+</div>
 
 ---
-
-## 🧠 About me
-
-- 🎓 Actively studying **Software Engineering**
-- 🌍 Living in **Spain** — soaking up sun and syntax errors
-- 🔭 Always exploring new technologies and building side projects
-- 💬 I believe clean code is a form of respect — for your future self and your teammates
-
----
-
-## 🛠️ Languages & Tools
 
 ```
-HTML        ████████████████████  fluent
-CSS         ████████████████████  fluent
-JavaScript  ████████████████████  fluent
-TypeScript  █████████████████░░░  comfortable
-Python      █████████████████░░░  comfortable
-C++         ████████████░░░░░░░░  intermediate
-SQL         ████████████░░░░░░░░  intermediate
+> sudo find / -name "about_me.txt"
+  searching...
+  searching...
+  found: /home/sudo-deb/about_me.txt [PARTIALLY RECOVERED]
+```
+
+```diff
+- [DELETED ENTRY] unknown
+- [DELETED ENTRY] unknown
++ location  : Spain 🇪🇸
++ status    : studying Software Engineering
++ activity  : writing code, breaking things, learning from both
+- [DELETED ENTRY] unknown
 ```
 
 ---
 
-## 📡 Currently
+~~`> cat skills.log`~~
 
-- 📚 Deep in my software engineering curriculum
-- 🧪 Experimenting with personal projects
+*`// file corrupted — partial read below`*
+
+```
+HTML        ████████████████████  ✓ recovered
+CSS         ████████████████████  ✓ recovered
+JavaScript  ████████████████████  ✓ recovered
+TypeScript  █████████████████░░░  ~ partial
+Python      █████████████████░░░  ~ partial
+C++         ████████████░░░░░░░░  ~ fragmented
+SQL         ████████░░░░░░░░░░░░  ~ fragmented
+```
 
 ---
 
-## 📬 Contact
+~~`> cat current_status.log`~~
 
-- ✉️ https://discord.gg/cFuhyJsJUh
+```
+[RECOVERED]  📚 deep in software engineering curriculum
+[RECOVERED]  🧪 experimenting with personal projects
+[MISSING]    ██████████████████████████████
+[MISSING]    ██████████████████████████████
+[RECOVERED]  🌱 growing every day — one commit at a time
+```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudo-deb&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
+~~`> cat contact.txt`~~
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+*`// 1 record found`*
+
+```
+✉  metetvrk@icloud.com   [DECRYPTED]
+```
+
+---
+
+<div align="center">
+
+~~`[END OF RECOVERED DATA]`~~
+
+*`// session terminated`* &nbsp; `█`
+
+</div>
