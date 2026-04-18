@@ -36,8 +36,6 @@ SQL         ████████████░░░░░░░░  interm
 
 ## 📬 Contact
 
-- ✉️ [metetvrk@icloud.com](mailto:metetvrk@icloud.com)
-- 
 - ✉️ https://discord.gg/cFuhyJsJUh
 
 ---
