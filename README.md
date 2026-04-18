@@ -1,16 +1,50 @@
-## Hi there 👋
+# hey, I'm @sudo-deb 👾
 
-<!--
-**sudo-deb/sudo-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineering student based in Spain 🇪🇸 — writing code, breaking things, and learning from both.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 about me
+
+- 🎓 Actively studying **Software Engineering**
+- 🌍 Living in **Spain** — soaking up sun and syntax errors
+- 🔭 Always exploring new technologies and building side projects
+- 💬 I believe clean code is a form of respect — for your future self and your teammates
+
+---
+
+## 🛠️ languages & tools
+
+```
+HTML        ████████████████████  fluent
+CSS         ████████████████████  fluent
+JavaScript  ████████████████████  fluent
+TypeScript  █████████████████░░░  comfortable
+Python      █████████████████░░░  comfortable
+C++         ████████████░░░░░░░░  intermediate
+SQL         ████████████░░░░░░░░  intermediate
+```
+
+---
+
+## 📡 currently
+
+- 📚 Deep in my software engineering curriculum
+- 🧪 Experimenting with personal projects
+- 🌱 Growing every day — one commit at a time
+
+---
+
+## 📬 reach me
+
+- ✉️ [metetvrk@icloud.com](mailto:metetvrk@icloud.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudo-deb&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
