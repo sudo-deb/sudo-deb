@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 about me
+## 🧠 About me
 
 - 🎓 Actively studying **Software Engineering**
 - 🌍 Living in **Spain** — soaking up sun and syntax errors
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ languages & tools
+## 🛠️ Languages & Tools
 
 ```
 HTML        ████████████████████  fluent
